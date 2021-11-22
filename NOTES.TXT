@@ -1,0 +1,1 @@
+{/* No need of calling a function on submitting the form, it will automatically point to the handleSubmit (onSubmit in definition) method of Formik */}
